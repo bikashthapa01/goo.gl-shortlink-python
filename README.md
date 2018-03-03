@@ -10,4 +10,4 @@ This is a simple python code which can generate goo.gl shortlink. Just pass the 
 
 # Requriments
 	1. Requests and Json
-	2. Google Shortlink API KEY <a href="https://developers.google.com/url-shortener/v1/getting_started#APIKey">Get API KEY</a>
+	2. Google Shortlink API KEY [a link](https://developers.google.com/url-shortener/v1/getting_started#APIKey)
